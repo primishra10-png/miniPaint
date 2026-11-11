@@ -318,6 +318,7 @@ IMPORTANT: any new icon should also must be added on /service-worker.js + its ve
 .sidebar_left .crop:after{ background-image: url('images/icons/crop.svg'); }
 .sidebar_left .blur:after{ background-image: url('images/icons/blur.svg'); }
 .sidebar_left .sharpen:after{ background-image: url('images/icons/sharpen.svg'); }
+.sidebar_left .pixelate:after{ background-image: url('images/icons/pixelate.svg'); }
 .sidebar_left .desaturate:after{ background-image: url('images/icons/desaturate.svg'); }
 .sidebar_left .bulge_pinch:after{ background-image: url('images/icons/bulge_pinch.svg'); }
 .sidebar_left .animation:after{ background-image: url('images/icons/animation.svg'); }

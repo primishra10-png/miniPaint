@@ -479,6 +479,19 @@ config.TOOLS = [
 		},
 	},
 	{
+		name: 'pixelate',
+		title: 'Pixelate Tool',
+		attributes: {
+			size: 40,
+			block_size: {
+				value: 8,
+				min: 2,
+				max: 100,
+				step: 1
+			},
+		},
+	},
+	{
 		name: 'sharpen',
 		attributes: {
 			size: 30,
